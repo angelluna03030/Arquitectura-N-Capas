@@ -1,6 +1,6 @@
-class Student {
+class Course {
   id = 0;
   name = null;
 }
 
-module.exports = Student;
+module.exports = Course;
